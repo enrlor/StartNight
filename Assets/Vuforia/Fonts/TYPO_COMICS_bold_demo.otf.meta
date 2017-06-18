@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4cd40d91367266e47a08e27833bfed4b
+timeCreated: 1488275436
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TYPO COMICS Bold DEMO
+  fontNames:
+  - TYPO COMICS Bold DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
